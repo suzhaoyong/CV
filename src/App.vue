@@ -7,7 +7,7 @@
  * @LastEditTime: 2020-08-29 14:49:21
 -->
 <template>
-  <div id="app">
+  <div>
     <resume />
   </div>
 </template>
@@ -23,4 +23,5 @@ export default {
 </script>
 
 <style>
+@import '~@/assets/css/reset.css'
 </style>

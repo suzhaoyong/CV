@@ -7,7 +7,11 @@
  * @LastEditTime: 2020-08-29 14:51:41
 -->
 <template>
-    <div>
+    <div class="resumen__head">
         resumeHead
     </div>
 </template>
+<style lang="stylus" scoped>
+.resumen__head
+    background #ccc
+</style>
